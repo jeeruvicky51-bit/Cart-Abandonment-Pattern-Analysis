@@ -16,7 +16,7 @@ Python + SQL (DuckDB) + Power BI analysis of 55M e-commerce events and 1.66M car
 </p>
 
 <p align="center">
-  📄 <a href="report/Cart_Abandonment_Pattern_Analysis_Report.pdf"><b>Read the 6-page report</b></a> &nbsp;|&nbsp;
+  📄 <a href="Cart_Abandonment_Pattern_Analysis_Report.pdf"><b>Read the 6-page report</b></a> &nbsp;|&nbsp;
   📓 <a href="Cart%20Abandonment%20Pattern%20Analysis%20EDA.ipynb"><b>EDA notebook</b></a> &nbsp;|&nbsp;
   🧾 <a href="SQL/cart_abandonment_sql_analysis.sql"><b>SQL analysis</b></a> &nbsp;|&nbsp;
   📊 <a href="Dashboard"><b>Dashboard</b></a>
